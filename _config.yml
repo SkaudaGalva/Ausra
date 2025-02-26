@@ -2,3 +2,5 @@ title: My GitHub Pages Site
 description: This is my site description.
 baseurl: "/"
 url: "https://SkaudaGalva.github.io"
+theme: THEME-SLATE
+
